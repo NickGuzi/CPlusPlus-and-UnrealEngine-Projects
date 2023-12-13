@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nickg/Documents/Unreal Projects/TemplatesAndBasics/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/nickg/Documents/Unreal Projects/TemplatesAndBasics/Content/StarterContent/Blueprints/BP_FinishLine.uasset",
+				"C:/Users/nickg/Documents/Unreal Projects/TemplatesAndBasics/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/RJ/17P53LYTFSMIGBEE5R2P51.uasset"
+			]
+		}
+	]
+}
