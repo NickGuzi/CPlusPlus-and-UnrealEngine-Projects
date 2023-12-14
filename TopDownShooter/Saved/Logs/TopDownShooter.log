@@ -5927,3 +5927,42 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.14-06.06.05:256][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 10.7 sec)
 [2023.12.14-06.06.05:259][610]AssetCheck: New page: Asset Save: BP_Zombie
 [2023.12.14-06.06.05:259][610]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie
+[2023.12.14-06.07.37:622][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.12.14-06.07.37:628][411]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.028
+[2023.12.14-06.07.37:628][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2023.12.14-06.07.37:628][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2023.12.14-06.07.37:638][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto9
+[2023.12.14-06.07.37:639][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/SK_Mannequin_Auto9C0ABAF7143AE26DB9541188E3AC1B00F.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto9.uasset'
+[2023.12.14-06.07.37:640][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE] ([1] browsable assets)...
+[2023.12.14-06.07.37:640][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE]
+[2023.12.14-06.07.37:657][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE_Auto9
+[2023.12.14-06.07.37:658][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/PistolIdle_UE_Auto9935426A146E251083FE4358772DDC500.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/PistolIdle_UE_Auto9.uasset'
+[2023.12.14-06.07.37:660][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/PistolRun_UE] ([1] browsable assets)...
+[2023.12.14-06.07.37:660][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/PistolRun_UE]
+[2023.12.14-06.07.37:675][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/PistolRun_UE_Auto9
+[2023.12.14-06.07.37:675][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/PistolRun_UE_Auto990D4F93D4C9CC2479945B6A3619B49B9.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/PistolRun_UE_Auto9.uasset'
+[2023.12.14-06.07.37:679][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE] ([1] browsable assets)...
+[2023.12.14-06.07.37:679][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE]
+[2023.12.14-06.07.37:696][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE_Auto9
+[2023.12.14-06.07.37:697][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/PistolWalk_UE_Auto9B63CE1F24DFD504A0D78358FD4AC6D8D.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/PistolWalk_UE_Auto9.uasset'
+[2023.12.14-06.07.37:699][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE] ([1] browsable assets)...
+[2023.12.14-06.07.37:699][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE]
+[2023.12.14-06.07.37:715][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE_Auto9
+[2023.12.14-06.07.37:715][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/ZombieRun_UE_Auto9911B57A64946494626D58DB14D944415.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/ZombieRun_UE_Auto9.uasset'
+[2023.12.14-06.07.37:717][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Pistol/pistolcolor] ([1] browsable assets)...
+[2023.12.14-06.07.37:717][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Pistol/pistolcolor]
+[2023.12.14-06.07.37:725][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Pistol/pistolcolor_Auto9
+[2023.12.14-06.07.37:727][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/pistolcolor_Auto9C893F038439E9D847E33BBA88E309464.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/TopDown/Pistol/pistolcolor_Auto9.uasset'
+[2023.12.14-06.07.37:729][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Pistol/pistol] ([1] browsable assets)...
+[2023.12.14-06.07.37:729][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Pistol/pistol]
+[2023.12.14-06.07.37:730][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Pistol/pistol_Auto9
+[2023.12.14-06.07.37:731][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/pistol_Auto95F58003149ACDAF48A908E9920C520FA.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/TopDown/Pistol/pistol_Auto9.uasset'
+[2023.12.14-06.07.37:732][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Pistol/pistolcolor_Mat] ([1] browsable assets)...
+[2023.12.14-06.07.37:732][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Pistol/pistolcolor_Mat]
+[2023.12.14-06.07.37:733][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Pistol/pistolcolor_Mat_Auto9
+[2023.12.14-06.07.37:733][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/pistolcolor_Mat_Auto9039F84C44EEC00F27207018C6C8CA45C.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/TopDown/Pistol/pistolcolor_Mat_Auto9.uasset'
+[2023.12.14-06.07.37:734][411]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/Actions/IA_Shoot] ([1] browsable assets)...
+[2023.12.14-06.07.37:734][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/Actions/IA_Shoot]
+[2023.12.14-06.07.37:734][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Input/Actions/IA_Shoot_Auto9
+[2023.12.14-06.07.37:735][411]LogSavePackage: Moving '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/IA_Shoot_Auto9D19458864FAF369592F8E9833FC05BEC.tmp' to '../../../../../../Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Saved/Autosaves/Game/TopDown/Input/Actions/IA_Shoot_Auto9.uasset'
+[2023.12.14-06.07.37:736][411]LogFileHelpers: Auto-saving content packages took 0.107
