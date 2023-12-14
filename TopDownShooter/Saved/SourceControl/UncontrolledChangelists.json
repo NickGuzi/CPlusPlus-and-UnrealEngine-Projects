@@ -19,7 +19,19 @@
 				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_ZombieSpawner.uasset",
 				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/8R/OL9BTHXIPHMBG3GKMFPYNW.uasset",
 				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/02/CTVWCW1XWFKG89M7ZWAUMR.uasset",
-				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_GameOver.uasset"
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_GameOver.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Pistol/pistol.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Pistol/pistolcolor.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Pistol/pistolcolor_Mat.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/Characters/Mannequins/Animations/Manny/PistolIdle_UE.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/Characters/Mannequins/Animations/Manny/PistolRun_UE.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/Characters/Mannequins/Animations/Manny/PistolWalk_UE.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/Characters/Mannequins/Animations/Manny/ZombieRun_UE.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/MainMenu/MainMenu.umap",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_MainMenu.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/MainMenu/BP_MainMenu.uasset"
 			]
 		}
 	]
