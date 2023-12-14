@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Pistol/pistolv2.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_Projectile.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_Zombie.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_ZombieSpawner.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/8R/OL9BTHXIPHMBG3GKMFPYNW.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/02/CTVWCW1XWFKG89M7ZWAUMR.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/TopDownShooter/Content/TopDown/Blueprints/BP_GameOver.uasset"
+			]
+		}
+	]
+}
