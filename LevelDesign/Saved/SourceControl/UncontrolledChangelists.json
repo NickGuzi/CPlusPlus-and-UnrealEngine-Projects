@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/LevelDesign/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/LevelDesign/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/LevelDesign/Content/NewMap.umap",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/LevelDesign/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/nickg/Documents/GitHub/Cplusplus-and-UnrealEngine-Projects/LevelDesign/Content/StarterContent/Props/Materials/M_TableRound.uasset"
 			]
 		}
 	]
